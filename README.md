@@ -11,11 +11,9 @@
 </a>
 <br />
 
-#### I'm a Post-Baccalaureate at Robert Bosch Centre for Data Science and AI, IIT Madras :india:
+#### I'm a Post-Baccalaureate Fellow at Robert Bosch Centre for Data Science and AI, IIT Madras :india:
 
 - 🔭 I’m currently working on **Natural Language Processing**
 - ⚙️ My daily dose `.py`, `.ipynb`, `.pkl`, `.ckpt`, `AWS`
 - 💬 Ask me about **Movies, Travel and Tech**
 - 📫 How to reach me: @ [LinkedIn](https://www.linkedin.com/in/sumanth-doddapaneni-25494b130/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
