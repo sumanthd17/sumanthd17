@@ -16,4 +16,4 @@
 - 🔭 I’m currently working on **Natural Language Processing**
 - ⚙️ My daily dose `.py`, `.ipynb`, `.pkl`, `.ckpt`, `AWS`
 - 💬 Ask me about **Movies, Travel and Tech**
-- 📫 How to reach me: @ [LinkedIn](https://www.linkedin.com/in/sumanth-doddapaneni-25494b130/)
+- 📫 How to reach me: dsumanth17@gmail.com, @[LinkedIn](https://www.linkedin.com/in/sumanth-doddapaneni-25494b130/)
