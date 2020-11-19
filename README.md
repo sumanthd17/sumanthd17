@@ -14,7 +14,6 @@
 #### I'm a Post-Baccalaureate Fellow at Robert Bosch Centre for Data Science and AI, IIT Madras :india:
 
 - 🔭 I’m currently working on **Natural Language Processing**
-- 🔭 Working on cross-lingual learning
 - ⚙️ My daily dose `.py`, `.ipynb`, `.pkl`, `.ckpt`, `AWS`
 - 💬 Ask me about **Movies, Travel and Tech**
 - 📫 How to reach me: dsumanth17@gmail.com, @[LinkedIn](https://www.linkedin.com/in/sumanth-doddapaneni-25494b130/)
