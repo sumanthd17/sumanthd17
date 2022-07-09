@@ -11,10 +11,9 @@
 </a>
 <br />
 
-#### I'm a Post-Baccalaureate Fellow at Robert Bosch Centre for Data Science and AI, IIT Madras :india:
+#### I am a first-year PhD Student at IIT Madras and AI Resident at AI4Bharat, where I'm advised by Mitesh M. Khapra, Pratyush Kumar and Anoop Kunchukuttan.:
 
-- 🔭 I’m currently working on **Natural Language Processing**
-- 🔭 Working on cross-lingual learning
+- 🔭 I’m currently working on **Natural Language Processing** with a focus on Multilingual NLP
 - ⚙️ My daily dose `.py`, `.ipynb`, `.pkl`, `.ckpt`, `AWS`
 - 💬 Ask me about **Movies, Travel and Tech**
-- 📫 How to reach me: dsumanth17@gmail.com, @[LinkedIn](https://www.linkedin.com/in/sumanth-doddapaneni-25494b130/)
+- 📫 How to reach me: @[Mail](mailto:doddapaneni.sumanth@gmail.com), @[LinkedIn](https://www.linkedin.com/in/sumanth-doddapaneni-25494b130/)
