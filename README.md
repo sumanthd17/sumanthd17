@@ -11,9 +11,9 @@
 </a>
 <br />
 
-#### I am a first-year PhD Student at IIT Madras and AI Resident at AI4Bharat, where I'm advised by Mitesh M. Khapra, Pratyush Kumar and Anoop Kunchukuttan.:
+#### I am a ~~first~~ second year PhD Student at IIT Madras and AI Resident at AI4Bharat, where I'm advised by Mitesh M. Khapra, Pratyush Kumar and Anoop Kunchukuttan.
 
 - 🔭 I’m currently working on **Natural Language Processing** with a focus on Multilingual NLP
-- ⚙️ My daily dose `.py`, `.ipynb`, `.pkl`, `.ckpt`, `AWS`
+- ⚙️ My daily dose `.py`, `.ipynb`, `.pt`, `.ckpt`, `GCP`
 - 💬 Ask me about **Movies, Travel and Tech**
 - 📫 How to reach me: @[Mail](mailto:doddapaneni.sumanth@gmail.com), @[LinkedIn](https://www.linkedin.com/in/sumanth-doddapaneni-25494b130/)
