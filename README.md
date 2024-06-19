@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/sumanth-doddapaneni-25494b130/">
   <img align="left" alt="Sumanth Doddapaneni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/sumanth__d/">
-  <img align="left" alt="Sumanth Doddapaneni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br />
 
 #### I am a ~~first~~ second year PhD Student at IIT Madras and AI Resident at AI4Bharat, where I'm advised by Mitesh M. Khapra, Pratyush Kumar and Anoop Kunchukuttan.
